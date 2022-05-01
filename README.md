@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Datacrédito Experian**
 
-- 🌱 I’m currently learning **Go, Angular and**
+- 🌱 I’m currently learning **Go, Angular and TypeScript**
 
 - 🤝 I’m looking for help with **be a better developer**
 
